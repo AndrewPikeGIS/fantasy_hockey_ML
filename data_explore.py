@@ -11,8 +11,6 @@ standings_tbl = pd.read_csv(standings_path)
 managers_tbl = pd.read_csv(managers_path)
 
 
-print(forwards_tbl.head())
-print(goalies_tbl.head())
-print(standings_tbl.head())
-print(managers_tbl.head())
+test_manager_join = standings_tbl.merge(managers_tbl, how = "left", on="Team")
 
+print(test_manager_join.head())
