@@ -7,17 +7,17 @@
 - waiver picks?
 	- can i grab stats on waiver pick ups?
 - team positioning?
-	- is team performance all that reially matters?
+	- is team performance all that really matters?
 	- plus minus as a team stat and indication of league performance
 - time on ice?
 - corsi
 - corsa
-- luckyness?
+- luckiness?
 - contract value?
 - cap number?
 	- individual
 	- team?
-- goalie count
+- DONE goalie count
 - d count
 - multi positions
 - games played
