@@ -4,21 +4,31 @@
 - shot percentage?
 	- year over year? could a previous year have an indication on performance
 - move number?
-- waiver picks?
+- DONE waiver picks?
 	- can i grab stats on waiver pick ups?
+	- yes
 - team positioning?
 	- is team performance all that really matters?
-	- plus minus as a team stat and indication of league performance
-- time on ice?
-- corsi
-- corsa
+	- plus minus as a team stat an indication of league performance
+- DONE time on ice?
+	- Need time on ice counts for all players for each year. Not as difficult.
+- DONE corsi
+- DONE goals for per 60
+- DONE goals against per 60
+- DONE pp stats
+- DONE short handed stats
 - luckiness?
 - contract value?
 - cap number?
 	- individual
 	- team?
+		- would require a separate cap table for each player for each particular year. TEDIOUS
 - DONE goalie count
 - d count
-- multi positions
-- games played
+	- Standardized d Count?
+	- total defensemen games is probably better
+	- total defensemen count divided by total number of moves?
+	-
+- DONE multi positions
+- DONE games played
 - ?
