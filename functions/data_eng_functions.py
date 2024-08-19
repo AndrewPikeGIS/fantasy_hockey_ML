@@ -13,3 +13,9 @@ def add_waiver_count_to_standings(standings, waiver_count):
     standings_out = standings.merge(waiver_count, on= ["Team", "year"],how = "left")
     standings_out["waiver_adds"].fillna(0, inplace = True)
     return(standings_out)
+
+def calc_shot_percentage(forward_tbl):
+    forward_tbl["shot_percent"] = forward_tbl["G"]/forward_tbl["SOG"] *100
+
+    return(forward_tbl)
+
