@@ -29,3 +29,5 @@ manager_join = data_eng.add_waiver_count_to_standings(manager_join, waiver_tbl)
 #plt_fun.plot_team_standings(manager_join)
 forwards_tbl = data_eng.calc_shot_percentage(forwards_tbl)
 print(forwards_tbl.head())
+
+forward_summary = data_eng.calc_forward_summary_stats(forwards_tbl)

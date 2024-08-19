@@ -19,3 +19,10 @@ def calc_shot_percentage(forward_tbl):
 
     return(forward_tbl)
 
+
+def calc_forward_summary_stats(forward_tbl):
+    only_defensemen = forward_tbl[forward_tbl["defence"] == 1]
+    defencemen_count = only_defensemen[["Team", "year", "defence"]].groupby(["Team", "year"]).count()
+    defencemen_games_played = only_defensemen[["Team", "year", "GP*"]].groupby(["Team", "year"]).sum()
+    print(defencemen_count.head())
+    print(defencemen_games_played.head())
