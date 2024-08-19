@@ -20,9 +20,19 @@ def calc_shot_percentage(forward_tbl):
     return(forward_tbl)
 
 
-def calc_forward_summary_stats(forward_tbl):
+def calc_forward_summary_stats(forward_tbl, manager_tbl):
     only_defensemen = forward_tbl[forward_tbl["defence"] == 1]
     defencemen_count = only_defensemen[["Team", "year", "defence"]].groupby(["Team", "year"]).count()
+    defencemen_count.rename(
+        columns = {"defence":"d_man_count"},
+        inplace = True
+    )
     defencemen_games_played = only_defensemen[["Team", "year", "GP*"]].groupby(["Team", "year"]).sum()
-    print(defencemen_count.head())
-    print(defencemen_games_played.head())
+    defencemen_games_played.rename(
+        columns = {"GP*":"tot_d_games_played"},
+        inplace =True
+    )
+   
+    manager_tbl = pd.merge(manager_tbl, defencemen_count, on =["Team", "year"], how = "left")
+    manager_tbl = pd.merge(manager_tbl, defencemen_games_played, on =["Team", "year"], how = "left")
+    return(manager_tbl)
