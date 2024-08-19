@@ -1,5 +1,6 @@
 import pandas as pd
 import functions.data_eng_functions as data_eng
+import functions.plotting_functions as plt_fun
 import plotly.express as px
 
 forwards_path = r"data\forwards.csv"
@@ -25,10 +26,6 @@ manager_join = data_eng.get_goalie_count_per_year(goalies_tbl, manager_join)
 
 manager_join = data_eng.add_waiver_count_to_standings(manager_join, waiver_tbl)
 
-print(manager_join.head(n=70))
 
-print(manager_join[manager_join["goalie_count"].isna()].head())
+plt_fun.plot_team_standings(manager_join)
 
-fig = px.line(nhl_standinbgs, x="year", y="Rk", color="team")
-fig.update_yaxes(autorange = "reversed")
-fig.show()

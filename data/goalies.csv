@@ -3,7 +3,7 @@ Andrei Vasilevskiy,38,28,84,2.19,1145,1229,0.9316517493897477,6,Collin's Cool Te
 Philipp Grubauer,30,15,68,2.52,792,860,0.9209302325581395,3,Collin's Cool Team,2018,G
 Cory Schneider,7,0,25,5.01,135,160,0.84375,0,Collin's Cool Team,2018,G
 Robin Lehner,20,10,40,2.12,526,566,0.9293286219081273,3,Collin's Cool Team,2018,G
-Pekka Rinne,49,24,117,2.51,1225,1342,0.912816692,3,Fuck Tom Wilson!,2018,G
+Pekka Rinne,49,24,117,2.51,1225,1342,0.912816691505216,3,Fuck Tom Wilson!,2018,G
 Ben Bishop,39,22,75,2.01,1071,1146,0.9345549738219895,6,Fuck Tom Wilson!,2018,G
 Juuse Saros,3,1,12,4.04,90,102,0.8823529411764706,0,Fuck Tom Wilson!,2018,G
 Jack Campbell,5,2,9,1.82,138,147,0.9387755102040817,0,Fuck Tom Wilson!,2018,G
@@ -16,12 +16,12 @@ Anton Khudobin,2,1,6,3.04,85,91,0.9340659340659341,0,Fuck Tom Wilson!,2018,G
 Carter Hart,1,0,2,2.06,33,35,0.9428571428571428,0,Fuck Tom Wilson!,2018,G
 Connor Hellebuyck,56,32,156,2.85,1646,1802,0.9134295227524972,2,Fuck Yeah Tom Wilson,2018,G
 Semyon Varlamov,47,19,130,2.86,1308,1438,0.9095966620305981,2,Fuck Yeah Tom Wilson,2018,G
-Jaroslav Halak,4,3,12,3.02,131,143,0.916083916,0,Fuck Yeah Tom Wilson,2018,G
+Jaroslav Halak,4,3,12,3.02,131,143,0.916083916083916,0,Fuck Yeah Tom Wilson,2018,G
 Michael Hutchinson,2,2,2,1,55,57,0.9649122807017544,1,Fuck Yeah Tom Wilson,2018,G
 Frederik Andersen,54,34,142,2.71,1600,1742,0.9184845005740528,1,Good Cop Babcock,2018,G
 Cam Talbot,14,5,44,3.31,350,394,0.8883248730964467,0,Good Cop Babcock,2018,G
 Jaroslav Halak,6,1,21,3.83,171,192,0.890625,0,Good Cop Babcock,2018,G
-David Rittich,5,2,12,2.43,136,148,0.918918919,0,Good Cop Babcock,2018,G
+David Rittich,5,2,12,2.43,136,148,0.918918918918919,0,Good Cop Babcock,2018,G
 Matt Murray,30,19,72,2.44,906,978,0.9263803680981595,3,Good Cop Babcock,2018,G
 Casey DeSmith,4,1,13,3.29,109,122,0.8934426229508197,0,Good Cop Babcock,2018,G
 Mike Smith,4,2,8,2.04,93,101,0.9207920792079208,0,Good Cop Babcock,2018,G
@@ -31,7 +31,7 @@ Jacob Markstrom,43,20,109,2.56,1235,1344,0.9188988095238095,1,Good ontariyah boy
 Marc-Andre Fleury,59,35,144,2.46,1529,1673,0.9139270771069934,8,Hail Satan,2018,G
 Cam Ward,4,2,18,4.34,130,148,0.8783783783783784,0,Hail Satan,2018,G
 Corey Crawford,22,6,68,3.29,624,692,0.9017341040462428,1,Hail Satan,2018,G
-Jake Allen,19,8,44,2.39,467,511,0.913894325,2,Hail Satan,2018,G
+Jake Allen,19,8,44,2.39,467,511,0.913894324853229,2,Hail Satan,2018,G
 Braden Holtby,54,27,153,2.94,1504,1657,0.9076644538322269,3,I'M BETTMEN!!!,2018,G
 Jake Allen,3,0,13,4.29,65,78,0.8333333333333334,0,I'M BETTMEN!!!,2018,G
 Carter Hutton,30,14,79,2.77,828,907,0.9128996692392503,0,I'M BETTMEN!!!,2018,G
@@ -50,7 +50,7 @@ Collin Delia,11,3,39,4.11,310,349,0.8882521489971347,0,Mitchell's Drangles,2018,
 Corey Crawford,8,4,22,2.74,227,249,0.9116465863453815,1,Mitchell's Drangles,2018,G
 Tuukka Rask,41,26,91,2.34,1008,1099,0.9171974522292994,4,Monahan Jobs,2018,G
 John Gibson,43,15,113,2.9,1233,1346,0.9160475482912332,2,Monahan Jobs,2018,G
-Roberto Luongo,20,6,61,3.57,467,528,0.884469697,1,Monahan Jobs,2018,G
+Roberto Luongo,20,6,61,3.57,467,528,0.884469696969697,1,Monahan Jobs,2018,G
 Jordan Binnington,15,12,29,1.94,375,404,0.9282178217821783,3,Monahan Jobs,2018,G
 Kevin Boyle,1,0,2,2.04,26,28,0.9285714285714286,0,Monahan Jobs,2018,G
 Martin Jones,57,34,160,2.91,1411,1571,0.8981540420114577,3,No Regretzkys,2018,G
@@ -61,10 +61,10 @@ Thomas Greiss,14,8,25,2.09,334,359,0.9303621169916435,2,No Regretzkys,2018,G
 Henrik Lundqvist,34,13,103,3.08,959,1062,0.9030131826741996,0,Sugar Kane,2018,G
 Sergei Bobrovsky,55,31,140,2.66,1426,1566,0.9106002554278416,7,Sugar Kane,2018,G
 Jacob Markstrom,2,1,7,3.5,67,74,0.9054054054054054,0,Sugar Kane,2018,G
-David Rittich,26,17,71,2.8,685,756,0.906084656,0,Sugar Kane,2018,G
+David Rittich,26,17,71,2.8,685,756,0.906084656084656,0,Sugar Kane,2018,G
 Mikko Koskinen,2,0,6,4.79,29,35,0.8285714285714286,0,Sugar Kane,2018,G
 Jaroslav Halak,6,5,12,1.99,178,190,0.9368421052631579,1,Sugar Kane,2018,G
-Carey Price,60,31,150,2.55,1627,1777,0.91558807,3,The Bearded One,2018,G
+Carey Price,60,31,150,2.55,1627,1777,0.915588069780529,3,The Bearded One,2018,G
 Jonathan Quick,40,15,124,3.17,1037,1161,0.8931955211024979,2,The Bearded One,2018,G
 Jacob Markstrom,1,0,5,5.05,28,33,0.8484848484848485,0,The Bearded One,2018,G
 Robin Lehner,6,1,17,3.24,141,158,0.8924050632911392,0,The Bearded One,2018,G
@@ -89,10 +89,10 @@ Sergei Bobrovsky,25,14,67,2.75,758,825,0.9187878787878788,0,Dump in the Corner,2
 Pavel Francouz,1,1,1,1,37,38,0.9736842105263158,0,Dump in the Corner,2019,G
 Elvis Merzlikins,13,5,28,2.25,344,372,0.9247311827956989,3,Dump in the Corner,2019,G
 Anton Khudobin,2,0,4,2.04,55,59,0.9322033898305084,0,Dump in the Corner,2019,G
-Braden Holtby,48,25,142,3.11,1243,1385,0.8974729241877256,0,Go Home I’m drinkin,2019,G
-Robin Lehner,32,16,86,2.8,1030,1116,0.9229390681003584,1,Go Home I’m drinkin,2019,G
-Joonas Korpisalo,11,6,20,1.84,290,310,0.9354838709677419,1,Go Home I’m drinkin,2019,G
-Mikko Koskinen,8,3,20,2.72,250,270,0.9259259259259259,0,Go Home I’m drinkin,2019,G
+Braden Holtby,48,25,142,3.11,1243,1385,0.8974729241877256,0,Go Home I'm drinkin,2019,G
+Robin Lehner,32,16,86,2.8,1030,1116,0.9229390681003584,1,Go Home I'm drinkin,2019,G
+Joonas Korpisalo,11,6,20,1.84,290,310,0.9354838709677419,1,Go Home I'm drinkin,2019,G
+Mikko Koskinen,8,3,20,2.72,250,270,0.9259259259259259,0,Go Home I'm drinkin,2019,G
 Tuukka Rask,40,26,81,2.07,1084,1165,0.9304721030042918,5,Hail Satan,2019,G
 Cory Schneider,4,0,15,4.08,106,121,0.8760330578512396,0,Hail Satan,2019,G
 Devan Dubnyk,13,5,37,3.07,332,369,0.8997289972899729,0,Hail Satan,2019,G
@@ -103,7 +103,7 @@ Carter Hutton,17,8,45,2.63,481,526,0.9144486692015209,2,I'M BETTMEN!!!,2019,G
 Linus Ullmark,12,6,28,2.38,307,335,0.9164179104477612,0,I'M BETTMEN!!!,2019,G
 Martin Jones,1,0,4,4.1,20,24,0.8333333333333334,0,I'M BETTMEN!!!,2019,G
 Jack Campbell,6,3,16,2.63,173,189,0.9153439153439153,0,I'M BETTMEN!!!,2019,G
-Juuse Saros,7,5,10,1.61,209,219,0.9543379,2,I'M BETTMEN!!!,2019,G
+Juuse Saros,7,5,10,1.61,209,219,0.954337899543379,2,I'M BETTMEN!!!,2019,G
 Martin Jones,35,14,107,3.21,866,973,0.8900308324768756,0,It Burns when I pee,2019,G
 Pekka Rinne,36,18,105,3.17,899,1004,0.8954183266932271,3,It Burns when I pee,2019,G
 Brian Elliott,6,3,17,2.94,118,135,0.8740740740740741,1,It Burns when I pee,2019,G
@@ -124,7 +124,7 @@ Antti Raanta,10,6,19,1.9,315,334,0.9431137724550899,1,No Regretzkys,2019,G
 Sergei Bobrovsky,17,7,54,3.54,380,434,0.8755760368663594,1,Sugar Kane,2019,G
 David Rittich,42,22,119,2.91,1189,1308,0.9090214067278287,2,Sugar Kane,2019,G
 Jaroslav Halak,22,11,54,2.43,623,677,0.9202363367799113,3,Sugar Kane,2019,G
-Antti Raanta,4,0,9,3.04,74,83,0.891566265,0,Sugar Kane,2019,G
+Antti Raanta,4,0,9,3.04,74,83,0.891566265060241,0,Sugar Kane,2019,G
 Ilya Samsonov,7,2,20,3.56,149,169,0.8816568047337278,0,Sugar Kane,2019,G
 James Reimer,4,2,14,4.47,85,99,0.8585858585858586,0,Sugar Kane,2019,G
 Chris Driedger,1,1,4,4,35,39,0.8974358974358975,0,Sugar Kane,2019,G
@@ -133,23 +133,23 @@ Igor Shesterkin,3,3,6,2.01,94,100,0.94,0,Sugar Kane,2019,G
 Mike Smith,5,3,15,3.28,121,136,0.8897058823529411,0,Sugar Kane,2019,G
 Alexandar Georgiev,2,1,7,3.52,48,55,0.8727272727272727,0,Sugar Kane,2019,G
 Cam Talbot,1,1,2,2.01,32,34,0.9411764705882353,0,Sugar Kane,2019,G
-Henrik Lundqvist,1,1,4,4,43,47,0.9148936170212766,0,The Bill Crosby’s,2019,G
-Joonas Korpisalo,9,5,29,3.42,217,246,0.8821138211382114,0,The Bill Crosby’s,2019,G
-Darcy Kuemper,26,16,60,2.28,762,822,0.927007299,2,The Bill Crosby’s,2019,G
-Mike Smith,7,3,22,3.47,188,210,0.8952380952380953,0,The Bill Crosby’s,2019,G
-Anton Khudobin,1,0,5,5,25,30,0.8333333333333334,0,The Bill Crosby’s,2019,G
-Alexandar Georgiev,2,1,6,3.03,34,40,0.85,0,The Bill Crosby’s,2019,G
-Pavel Francouz,10,6,29,2.88,287,316,0.9082278481012658,1,The Bill Crosby’s,2019,G
-Antti Raanta,7,3,19,3.57,151,170,0.888235294,0,The Bill Crosby’s,2019,G
-Mackenzie Blackwood,15,9,38,2.55,480,518,0.9266409266409267,2,The Bill Crosby’s,2019,G
-Ilya Samsonov,1,1,0,0,23,23,1,1,The Bill Crosby’s,2019,G
-Chris Driedger,1,0,0,0,4,4,1,0,The Bill Crosby’s,2019,G
-Jaroslav Halak,7,7,12,1.7,179,191,0.937172775,0,The Bill Crosby’s,2019,G
+Henrik Lundqvist,1,1,4,4,43,47,0.9148936170212766,0,The Bill Crosby's,2019,G
+Joonas Korpisalo,9,5,29,3.42,217,246,0.8821138211382114,0,The Bill Crosby's,2019,G
+Darcy Kuemper,26,16,60,2.28,762,822,0.927007299270073,2,The Bill Crosby's,2019,G
+Mike Smith,7,3,22,3.47,188,210,0.8952380952380953,0,The Bill Crosby's,2019,G
+Anton Khudobin,1,0,5,5,25,30,0.8333333333333334,0,The Bill Crosby's,2019,G
+Alexandar Georgiev,2,1,6,3.03,34,40,0.85,0,The Bill Crosby's,2019,G
+Pavel Francouz,10,6,29,2.88,287,316,0.9082278481012658,1,The Bill Crosby's,2019,G
+Antti Raanta,7,3,19,3.57,151,170,0.888235294117647,0,The Bill Crosby's,2019,G
+Mackenzie Blackwood,15,9,38,2.55,480,518,0.9266409266409267,2,The Bill Crosby's,2019,G
+Ilya Samsonov,1,1,0,0,23,23,1,1,The Bill Crosby's,2019,G
+Chris Driedger,1,0,0,0,4,4,1,0,The Bill Crosby's,2019,G
+Jaroslav Halak,7,7,12,1.7,179,191,0.93717277486911,0,The Bill Crosby's,2019,G
 Ben Bishop,38,17,89,2.48,1017,1106,0.9195298372513563,2,The Glatt Pack,2019,G
 John Gibson,41,16,121,3.05,1114,1235,0.9020242914979757,0,The Glatt Pack,2019,G
-Semyon Varlamov,43,18,104,2.61,1110,1214,0.914332784,2,The Glatt Pack,2019,G
-Jordan Binnington,39,16,100,2.61,1032,1132,0.911660777,0,Big Thick Blocks,2020,G
-Tristan Jarry,35,22,92,2.78,910,1002,0.908183633,2,Big Thick Blocks,2020,G
+Semyon Varlamov,43,18,104,2.61,1110,1214,0.914332784184514,2,The Glatt Pack,2019,G
+Jordan Binnington,39,16,100,2.61,1032,1132,0.911660777385159,0,Big Thick Blocks,2020,G
+Tristan Jarry,35,22,92,2.78,910,1002,0.908183632734531,2,Big Thick Blocks,2020,G
 Casey DeSmith,4,3,13,3.17,99,112,0.8839285714285714,0,Big Thick Blocks,2020,G
 Mackenzie Blackwood,12,4,39,3.36,309,348,0.8879310344827587,0,Big Thick Blocks,2020,G
 Cam Talbot,14,9,41,2.9,384,425,0.9035294117647059,0,Big Thick Blocks,2020,G
@@ -184,13 +184,13 @@ Kaapo Kahkonen,10,6,33,3.3,284,317,0.8958990536277602,2,HatTrick Swayzes,2020,G
 James Reimer,7,4,24,3.47,190,214,0.8878504672897196,0,HatTrick Swayzes,2020,G
 Alexandar Georgiev,1,1,3,3,24,27,0.8888888888888888,0,HatTrick Swayzes,2020,G
 Thatcher Demko,8,5,21,2.57,262,283,0.9257950530035336,0,HatTrick Swayzes,2020,G
-Jack Campbell,16,12,36,2.33,376,412,0.912621359,0,HatTrick Swayzes,2020,G
+Jack Campbell,16,12,36,2.33,376,412,0.912621359223301,0,HatTrick Swayzes,2020,G
 Martin Jones,4,0,14,3.77,89,103,0.8640776699029126,0,HatTrick Swayzes,2020,G
 Jeremy Swayman,3,2,4,1.35,74,78,0.9487179487179487,0,HatTrick Swayzes,2020,G
 Carter Hart,18,8,59,3.69,421,480,0.8770833333333333,1,Mitchell's Mooners,2020,G
 Jacob Markstrom,35,16,94,2.78,872,966,0.9026915113871635,3,Mitchell's Mooners,2020,G
 Juuse Saros,29,18,64,2.32,770,834,0.9232613908872902,2,Mitchell's Mooners,2020,G
-Cal Petersen,19,4,59,3.16,550,609,0.903119869,0,Mitchell's Mooners,2020,G
+Cal Petersen,19,4,59,3.16,550,609,0.90311986863711,0,Mitchell's Mooners,2020,G
 Semyon Varlamov,1,0,2,2.05,23,25,0.92,0,Mitchell's Mooners,2020,G
 Frederik Andersen,19,11,54,2.89,470,524,0.8969465648854962,0,No Regretzkys,2020,G
 Sergei Bobrovsky,30,19,82,2.8,823,905,0.9093922651933701,0,No Regretzkys,2020,G
@@ -226,7 +226,7 @@ Anton Khudobin,1,0,3,3.06,24,27,0.8888888888888888,0,BunchaPigeons,2021,G
 Spencer Knight,8,4,26,3.4,192,218,0.8807339449541285,0,BunchaPigeons,2021,G
 Semyon Varlamov,11,1,29,2.73,295,324,0.9104938271604939,0,BunchaPigeons,2021,G
 Alex Nedeljkovic,2,0,5,3.8,34,39,0.8717948717948718,0,BunchaPigeons,2021,G
-Ilya Samsonov,12,6,38,3.24,299,337,0.887240356,0,BunchaPigeons,2021,G
+Ilya Samsonov,12,6,38,3.24,299,337,0.887240356083086,0,BunchaPigeons,2021,G
 Kaapo Kahkonen,7,4,14,2.18,201,215,0.9348837209302325,0,BunchaPigeons,2021,G
 Tuukka Rask,4,2,14,4.28,76,90,0.8444444444444444,0,BunchaPigeons,2021,G
 Ville Husso,24,15,66,2.77,665,731,0.9097127222982216,0,BunchaPigeons,2021,G
@@ -236,7 +236,7 @@ Sam Montembeault,1,0,7,9.23,16,23,0.6956521739130435,0,BunchaPigeons,2021,G
 Anton Forsberg,3,2,10,3.29,74,84,0.8809523809523809,0,BunchaPigeons,2021,G
 Erik Kallgren,4,2,14,3.52,101,115,0.8782608695652174,0,BunchaPigeons,2021,G
 Casey DeSmith,3,2,9,3.06,93,102,0.9117647058823529,0,BunchaPigeons,2021,G
-Andrei Vasilevskiy,55,34,135,2.48,1520,1655,0.918429003,2,Commissioner Coulas,2021,G
+Andrei Vasilevskiy,55,34,135,2.48,1520,1655,0.918429003021148,2,Commissioner Coulas,2021,G
 Tristan Jarry,52,31,122,2.39,1399,1521,0.9197896120973044,4,Commissioner Coulas,2021,G
 Carter Hart,29,9,80,2.79,864,944,0.9152542372881356,1,Commissioner Coulas,2021,G
 Connor Hellebuyck,64,28,186,2.95,1912,2098,0.9113441372735939,4,Dont Drink and Draft,2021,G
@@ -258,17 +258,17 @@ Anton Forsberg,1,0,3,3.07,35,38,0.9210526315789473,0,HatTrick Swayzes,2021,G
 Jake Allen,4,2,13,3.24,131,144,0.9097222222222222,0,HatTrick Swayzes,2021,G
 Karel Vejmelka,1,0,3,3.05,25,28,0.8928571428571429,0,HatTrick Swayzes,2021,G
 Logan Thompson,5,4,11,2.19,135,146,0.9246575342465754,1,HatTrick Swayzes,2021,G
-Carey Price,4,1,16,4.02,113,129,0.875968992,0,HatTrick Swayzes,2021,G
+Carey Price,4,1,16,4.02,113,129,0.875968992248062,0,HatTrick Swayzes,2021,G
 Mike Smith,10,6,27,2.82,325,352,0.9232954545454546,1,Mitchell's Mooners,2021,G
 Igor Shesterkin,48,32,98,2.12,1361,1459,0.9328307059629883,5,Mitchell's Mooners,2021,G
 Cal Petersen,30,16,87,2.97,724,811,0.8927250308261405,2,Mitchell's Mooners,2021,G
-Mikko Koskinen,17,11,53,3.19,479,532,0.90037594,0,Mitchell's Mooners,2021,G
+Mikko Koskinen,17,11,53,3.19,479,532,0.900375939849624,0,Mitchell's Mooners,2021,G
 Braden Holtby,11,5,35,3.27,305,340,0.8970588235294118,0,Mitchell's Mooners,2021,G
 Petr Mrazek,7,3,22,3.9,155,177,0.8757062146892656,0,Mitchell's Mooners,2021,G
 James Reimer,4,0,10,2.82,96,106,0.9056603773584906,0,Mitchell's Mooners,2021,G
 Darcy Kuemper,48,33,109,2.36,1398,1507,0.9276708692767087,5,No Regretzkys,2021,G
 Jordan Binnington,26,13,77,3,762,839,0.9082240762812872,2,No Regretzkys,2021,G
-Jeremy Swayman,29,18,70,2.44,736,806,0.913151365,2,No Regretzkys,2021,G
+Jeremy Swayman,29,18,70,2.44,736,806,0.913151364764268,2,No Regretzkys,2021,G
 Dan Vladar,2,1,7,3.39,53,60,0.8833333333333333,0,No Regretzkys,2021,G
 Petr Mrazek,6,4,14,2.41,142,156,0.9102564102564102,0,No Regretzkys,2021,G
 James Reimer,2,2,5,2.51,51,56,0.9107142857142857,0,No Regretzkys,2021,G
@@ -287,10 +287,10 @@ Ilya Sorokin,52,26,123,2.4,1517,1640,0.925,7,The Dirty Beavers,2021,G
 Jacob Markstrom,63,37,137,2.22,1617,1754,0.9218928164196123,9,The Dirty Beavers,2021,G
 Thatcher Demko,60,29,162,2.81,1683,1845,0.9121951219512195,0,The Glatt Pack,2021,G
 Jake Allen,11,3,31,2.94,278,309,0.8996763754045307,2,The Glatt Pack,2021,G
-John Gibson,47,14,152,3.37,1359,1511,0.899404368,1,The Glatt Pack,2021,G
+John Gibson,47,14,152,3.37,1359,1511,0.899404367968233,1,The Glatt Pack,2021,G
 Mackenzie Blackwood,14,5,49,3.8,357,406,0.8793103448275862,0,The Glatt Pack,2021,G
 Robin Lehner,40,21,110,2.81,1065,1175,0.9063829787234042,1,The Tkachukle Fuckers,2021,G
-Marc-Andre Fleury,53,26,150,2.9,1504,1654,0.909310762,4,The Tkachukle Fuckers,2021,G
+Marc-Andre Fleury,53,26,150,2.9,1504,1654,0.909310761789601,4,The Tkachukle Fuckers,2021,G
 Martin Jones,1,1,2,1.93,34,36,0.9444444444444444,0,The Tkachukle Fuckers,2021,G
 Maxime Lagace,1,0,6,9.01,21,27,0.7777777777777778,0,The Tkachukle Fuckers,2021,G
 Alex Nedeljkovic,1,0,5,5.05,32,37,0.8648648648648649,0,The Tkachukle Fuckers,2021,G
@@ -299,21 +299,21 @@ James Reimer,4,2,9,2.63,126,135,0.9333333333333333,0,The Tkachukle Fuckers,2021,
 Karel Vejmelka,1,1,3,3,36,39,0.9230769230769231,0,The Tkachukle Fuckers,2021,G
 Antti Raanta,2,1,4,2.58,44,48,0.9166666666666666,0,The Tkachukle Fuckers,2021,G
 Philipp Grubauer,40,11,126,3.36,961,1087,0.8840846366145354,1,Tkachuk'n rites boys,2021,G
-Juuse Saros,65,37,166,2.61,1882,2048,0.918945313,4,Tkachuk'n rites boys,2021,G
+Juuse Saros,65,37,166,2.61,1882,2048,0.9189453125,4,Tkachuk'n rites boys,2021,G
 Adin Hill,2,0,6,3.4,29,35,0.8285714285714286,0,Tkachuk'n rites boys,2021,G
 Craig Anderson,19,9,65,3.4,495,560,0.8839285714285714,0,Tkachuk'n rites boys,2021,G
 Semyon Varlamov,2,0,9,4.58,62,71,0.8732394366197183,0,Tkachuk'n rites boys,2021,G
 Juuse Saros,47,24,121,2.57,1409,1530,0.9209150326797385,2,BunchaPigeons,2022,G
 Ilya Samsonov,34,22,83,2.45,875,958,0.9133611691022965,4,BunchaPigeons,2022,G
-Marc-Andre Fleury,10,5,22,2.39,240,262,0.916030534,1,BunchaPigeons,2022,G
+Marc-Andre Fleury,10,5,22,2.39,240,262,0.916030534351145,1,BunchaPigeons,2022,G
 Vitek Vanecek,40,26,97,2.5,992,1089,0.9109274563820018,2,BunchaPigeons,2022,G
-Jake Oettinger,62,37,144,2.37,1632,1776,0.918918919,5,Classless Calow,2022,G
-Connor Hellebuyck,64,37,157,2.49,1807,1964,0.9200611,4,Classless Calow,2022,G
+Jake Oettinger,62,37,144,2.37,1632,1776,0.918918918918919,5,Classless Calow,2022,G
+Connor Hellebuyck,64,37,157,2.49,1807,1964,0.920061099796334,4,Classless Calow,2022,G
 Jack Campbell,10,6,39,4.27,268,307,0.8729641693811075,0,Come Fiala Deez Nuts!,2022,G
 Thatcher Demko,11,1,44,4.02,305,349,0.8739255014326648,0,Come Fiala Deez Nuts!,2022,G
 Martin Jones,7,6,30,4.23,162,192,0.84375,0,Come Fiala Deez Nuts!,2022,G
 Stuart Skinner,26,15,70,2.79,720,790,0.9113924050632911,1,Come Fiala Deez Nuts!,2022,G
-Charlie Lindgren,9,7,18,2.13,218,236,0.923728814,0,Come Fiala Deez Nuts!,2022,G
+Charlie Lindgren,9,7,18,2.13,218,236,0.923728813559322,0,Come Fiala Deez Nuts!,2022,G
 Antti Raanta,1,0,3,2.77,15,18,0.8333333333333334,0,Come Fiala Deez Nuts!,2022,G
 Pavel Francouz,6,3,13,2.14,171,184,0.9293478260869565,1,Come Fiala Deez Nuts!,2022,G
 Pheonix Copley,10,5,22,2.34,224,246,0.9105691056910569,0,Come Fiala Deez Nuts!,2022,G
@@ -324,7 +324,7 @@ Jake Allen,9,4,29,3.19,268,297,0.9023569023569024,0,Commissioner Coulas,2022,G
 Sergei Bobrovsky,12,4,43,3.84,310,353,0.8781869688385269,0,Commissioner Coulas,2022,G
 Carter Hart,12,3,36,3.06,341,377,0.9045092838196287,0,Commissioner Coulas,2022,G
 Karel Vejmelka,20,7,69,3.58,612,681,0.8986784140969163,1,Commissioner Coulas,2022,G
-Dan Vladar,6,4,18,2.97,156,174,0.896551724,0,Commissioner Coulas,2022,G
+Dan Vladar,6,4,18,2.97,156,174,0.896551724137931,0,Commissioner Coulas,2022,G
 Marc-Andre Fleury,21,12,53,2.66,613,666,0.9204204204204204,1,Commissioner Coulas,2022,G
 Filip Gustavsson,8,5,17,2.16,207,224,0.9241071428571429,0,Commissioner Coulas,2022,G
 Antti Raanta,9,7,13,1.56,192,205,0.9365853658536586,2,Commissioner Coulas,2022,G
@@ -357,7 +357,7 @@ Tristan Jarry,35,18,101,3,990,1091,0.9074243813015582,2,The McDadDicks,2022,G
 Matt Murray,24,13,69,3.06,650,719,0.9040333796940194,1,The McDadDicks,2022,G
 Scott Wedgewood,1,0,2,2.1,25,27,0.9259259259259259,0,The McDadDicks,2022,G
 Casey DeSmith,14,6,46,3.85,373,419,0.8902147971360382,0,The McDadDicks,2022,G
-Tristan Jarry,36,15,90,2.74,876,966,0.906832298,5,BunchaPigeons,2023,G
+Tristan Jarry,36,15,90,2.74,876,966,0.906832298136646,5,BunchaPigeons,2023,G
 Ilya Samsonov,3,2,11,3.67,68,79,0.8607594936708861,0,BunchaPigeons,2023,G
 Jack Campbell,1,0,4,8.73,12,16,0.75,0,BunchaPigeons,2023,G
 Jordan Binnington,4,1,14,3.52,111,125,0.888,0,BunchaPigeons,2023,G
@@ -370,7 +370,7 @@ Charlie Lindgren,1,0,5,5.05,30,35,0.8571428571428571,0,BunchaPigeons,2023,G
 Filip Gustavsson,1,0,2,2.09,15,17,0.8823529411764706,0,BunchaPigeons,2023,G
 David Rittic,1,0,3,2.79,24,27,0.8888888888888888,0,BunchaPigeons,2023,G
 Ukko-Pekka Luukkonen,10,6,21,2.1,275,296,0.9290540540540541,1,BunchaPigeons,2023,G
-Frederik Andersen,8,7,10,1.25,201,211,0.952606635,3,BunchaPigeons,2023,G
+Frederik Andersen,8,7,10,1.25,201,211,0.95260663507109,3,BunchaPigeons,2023,G
 Juuse Saros,64,35,173,2.86,1672,1845,0.9062330623306233,3,Clownin Rounds,2023,G
 Jake Oettinger,52,34,135,2.7,1283,1418,0.9047954866008463,3,Clownin Rounds,2023,G
 Scott Wedgewood,3,1,6,2.48,53,59,0.8983050847457628,0,Clownin Rounds,2023,G
@@ -386,7 +386,7 @@ Ilya Samsonov,2,0,10,4.98,54,64,0.84375,0,Commissioner Coulas,2023,G
 Alex Nedeljkovic,1,0,5,4.9,21,26,0.8076923076923077,0,Commissioner Coulas,2023,G
 Pyotr Kochetkov,5,4,10,2.19,113,123,0.9186991869918699,0,Commissioner Coulas,2023,G
 Anthony Stolarz,9,6,19,2.23,212,231,0.9177489177489178,0,Commissioner Coulas,2023,G
-Sam Montembeault,2,1,5,2.53,72,77,0.935064935,0,Commissioner Coulas,2023,G
+Sam Montembeault,2,1,5,2.53,72,77,0.935064935064935,0,Commissioner Coulas,2023,G
 Jonathan Quick,2,1,8,4.13,68,76,0.8947368421052632,0,Commissioner Coulas,2023,G
 Nico Daw,1,0,2,2.07,27,29,0.9310344827586207,0,Commissioner Coulas,2023,G
 Martin Jones,1,1,2,2.01,19,21,0.9047619047619048,0,Commissioner Coulas,2023,G
@@ -399,11 +399,11 @@ Antti Raanta,14,6,45,3.61,265,310,0.8548387096774194,1,Hail Satan,2023,G
 Filip Gustavsson,27,12,80,3.22,671,751,0.8934753661784287,1,Hail Satan,2023,G
 Vitek Vanece,11,5,34,3.53,236,270,0.8740740740740741,0,HatTrick Swayzes,2023,G
 Devon Levi,2,0,7,3.55,52,59,0.8813559322033898,0,HatTrick Swayzes,2023,G
-Akira Schmi,3,1,10,4.07,63,73,0.863013699,0,HatTrick Swayzes,2023,G
+Akira Schmi,3,1,10,4.07,63,73,0.863013698630137,0,HatTrick Swayzes,2023,G
 Thatcher Demko,50,34,122,2.47,1342,1464,0.9166666666666666,5,HatTrick Swayzes,2023,G
 Jonas Johansso,6,2,23,3.86,165,188,0.8776595744680851,1,HatTrick Swayzes,2023,G
 Andrei Vasilevski,48,27,134,2.85,1220,1354,0.9010339734121122,2,HatTrick Swayzes,2023,G
-Marc-Andre Fleury,8,3,23,3.03,172,195,0.882051282,1,HatTrick Swayzes,2023,G
+Marc-Andre Fleury,8,3,23,3.03,172,195,0.882051282051282,1,HatTrick Swayzes,2023,G
 Connor Ingram,5,2,16,3.73,116,132,0.8787878787878788,0,HatTrick Swayzes,2023,G
 Jonathan Quick,1,1,1,1.01,19,20,0.95,0,HatTrick Swayzes,2023,G
 Justus Annunen,1,0,3,3.08,21,24,0.875,0,HatTrick Swayzes,2023,G
@@ -411,7 +411,7 @@ Jesper Wallstedt,2,2,2,1.01,51,53,0.9622641509433962,1,HatTrick Swayzes,2023,G
 Dustin Wolf,1,1,2,1.92,20,22,0.9090909090909091,0,HatTrick Swayzes,2023,G
 Calvin Pickard,1,0,3,2.93,25,28,0.8928571428571429,0,HatTrick Swayzes,2023,G
 Adin Hill,35,19,89,2.71,891,980,0.9091836734693878,2,Mr. Andersson,2023,G
-Filip Gustavsson,7,2,30,4.89,203,233,0.871244635,1,Mr. Andersson,2023,G
+Filip Gustavsson,7,2,30,4.89,203,233,0.871244635193133,1,Mr. Andersson,2023,G
 Joseph Woll,6,3,22,3.63,126,148,0.8513513513513513,0,Mr. Andersson,2023,G
 John Gibson,6,0,18,3.32,143,161,0.8881987577639752,0,Mr. Andersson,2023,G
 Alex Lyon,4,2,9,2.89,98,107,0.9158878504672897,0,Mr. Andersson,2023,G
@@ -423,14 +423,14 @@ Scott Wedgewood,1,0,4,4.45,14,18,0.7777777777777778,0,Mr. Andersson,2023,G
 Antti Raanta,1,0,3,3.08,14,17,0.8235294117647058,0,Mr. Andersson,2023,G
 Charlie Lindgren,1,0,6,6.02,25,31,0.8064516129032258,0,Mr. Andersson,2023,G
 Ilya Samsonov,21,15,62,2.94,549,611,0.8985270049099836,1,Mr. Andersson,2023,G
-Alexandar Georgiev,59,37,172,3,1501,1673,0.8971906754333533,2,Snortin Laine’s Bustin Hymans,2023,G
-Igor Shesterkin,45,31,111,2.48,1204,1315,0.9155893536121673,4,Snortin Laine’s Bustin Hymans,2023,G
-Jonathan Quick,4,3,15,3.63,109,124,0.8790322580645161,0,Snortin Laine’s Bustin Hymans,2023,G
-Dustin Wolf,3,1,10,3.35,88,98,0.8979591836734694,0,Snortin Laine’s Bustin Hymans,2023,G
-Devon Levi,2,1,7,3.56,50,57,0.8771929824561403,0,Snortin Laine’s Bustin Hymans,2023,G
-Joey Daccord,15,6,38,2.65,413,451,0.9157427937915743,1,Snortin Laine’s Bustin Hymans,2023,G
-Alex Lyon,3,0,13,4.91,90,103,0.8737864077669902,0,Snortin Laine’s Bustin Hymans,2023,G
-Ukko-Pekka Luukkonen,12,7,34,2.84,327,361,0.9058171745152355,0,Snortin Laine’s Bustin Hymans,2023,G
+Alexandar Georgiev,59,37,172,3,1501,1673,0.8971906754333533,2,Snortin Laine's Bustin Hymans,2023,G
+Igor Shesterkin,45,31,111,2.48,1204,1315,0.9155893536121673,4,Snortin Laine's Bustin Hymans,2023,G
+Jonathan Quick,4,3,15,3.63,109,124,0.8790322580645161,0,Snortin Laine's Bustin Hymans,2023,G
+Dustin Wolf,3,1,10,3.35,88,98,0.8979591836734694,0,Snortin Laine's Bustin Hymans,2023,G
+Devon Levi,2,1,7,3.56,50,57,0.8771929824561403,0,Snortin Laine's Bustin Hymans,2023,G
+Joey Daccord,15,6,38,2.65,413,451,0.9157427937915743,1,Snortin Laine's Bustin Hymans,2023,G
+Alex Lyon,3,0,13,4.91,90,103,0.8737864077669902,0,Snortin Laine's Bustin Hymans,2023,G
+Ukko-Pekka Luukkonen,12,7,34,2.84,327,361,0.9058171745152355,0,Snortin Laine's Bustin Hymans,2023,G
 Linus Ullmark,37,20,89,2.48,995,1084,0.9178966789667896,2,Sugar Kane,2023,G
 Ilya Sorokin,54,25,161,3.02,1585,1746,0.9077892325315006,1,Sugar Kane,2023,G
 Sam Montembeault,1,1,2,2,28,30,0.9333333333333333,0,Sugar Kane,2023,G
@@ -446,14 +446,14 @@ Arturs Silovs,2,2,3,1.5,40,43,0.9302325581395349,0,Sugar Kane,2023,G
 Sergei Bobrovsky,52,33,119,2.31,1304,1423,0.9163738580463809,6,Taxicab Kanefessions,2023,G
 Jeremy Swayman,38,21,94,2.52,1043,1137,0.9173262972735268,3,Taxicab Kanefessions,2023,G
 Darcy Kuempe,16,8,49,3.17,434,483,0.8985507246376812,1,Taxicab Kanefessions,2023,G
-Joel Hofer,1,1,1,1.01,30,31,0.967741935,0,Taxicab Kanefessions,2023,G
+Joel Hofer,1,1,1,1.01,30,31,0.967741935483871,0,Taxicab Kanefessions,2023,G
 Pyotr Kochetkov,13,9,27,2.08,324,351,0.9230769230769231,2,Taxicab Kanefessions,2023,G
 Frederik Andersen,5,3,13,3.13,103,116,0.8879310344827587,0,The McDadDicks,2023,G
 Jacob Markstro,41,21,108,2.69,1063,1171,0.9077711357813835,2,The McDadDicks,2023,G
 Semyon Varlamov,3,1,7,2.3,100,107,0.9345794392523364,1,The McDadDicks,2023,G
 Carter Hart,15,8,40,2.87,389,429,0.9067599067599068,0,The McDadDicks,2023,G
 Ilya Samsonov,4,2,12,3.61,96,108,0.8888888888888888,0,The McDadDicks,2023,G
-Jordan Binnington,44,22,122,2.9,1264,1386,0.911976912,3,The McDadDicks,2023,G
+Jordan Binnington,44,22,122,2.9,1264,1386,0.911976911976912,3,The McDadDicks,2023,G
 Petr Mrazek,2,2,4,1.91,63,67,0.9402985074626866,0,The McDadDicks,2023,G
 Alex Lyon,8,4,25,3.34,201,226,0.8893805309734514,1,The McDadDicks,2023,G
 Dustin Wolf,1,0,4,4.18,28,32,0.875,0,The McDadDicks,2023,G
