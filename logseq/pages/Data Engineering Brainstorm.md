@@ -1,7 +1,7 @@
 - conference?
 	- might be an issue as conference strength varies by year
 	- I could potentially infer conference strength by player strength or deadline moves?
-- shot percentage?
+- DONE shot percentage?
 	- year over year? could a previous year have an indication on performance
 	- PYTHON
 - move number?
@@ -32,7 +32,8 @@
 - DONE goalie count
 - d count
 	- Standardized d Count?
-	- total defensemen games is probably better
+	- DONE total defensemen games is probably better
+	- DONE total D man count
 	- total defensemen count divided by total number of moves?
 	- PYTHON
 	-
