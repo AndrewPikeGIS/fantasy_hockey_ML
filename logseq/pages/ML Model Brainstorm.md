@@ -1,0 +1,27 @@
+- [[Fantasy_ML]]
+	- Two models
+	- One model predicting team performance based on key factors
+		- What factors does a team need to be successful in our league
+			- see [[Data Engineering Brainstorm]]
+	- Second model predicting what will make a good player to pick
+		- this would potentially be a time lag model
+			- what about the previous season would hint at a player improving their value
+		- what about a players previous year indicates that they would be valuable going forward?
+		- potential features
+			- TOI
+			- age?
+			- draft position
+			- contract year?
+			- games played
+			- time on IR or LTIR
+			- shot percentage
+			- points
+			- pims
+			- hits
+			- +- is likely useless or should be selectively avoided.
+			- position?
+				- Conventially one would assume value decreases from C -> RW/LW -> D
+				- How do you incorporate goalies?
+					- voodoo?
+			-
+		-
