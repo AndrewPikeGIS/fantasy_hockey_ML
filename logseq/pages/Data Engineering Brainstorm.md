@@ -1,0 +1,42 @@
+- conference?
+	- might be an issue as conference strength varies by year
+	- I could potentially infer conference strength by player strength or deadline moves?
+- DONE shot percentage?
+	- year over year? could a previous year have an indication on performance
+	- PYTHON
+- move number?
+	- Don't remember what this means? like when were they moved?
+	- Move timing?
+		- percentage of moves in each quarter of the season?
+		- interesting.
+- DONE waiver picks?
+	- can i grab stats on waiver pick ups?
+	- yes
+- DONE team positioning?
+	- is team performance all that really matters?
+	- plus minus as a team stat an indication of league performance
+- DONE time on ice?
+	- Need time on ice counts for all players for each year. Not as difficult.
+	- need to total out time on ice for the player when the team had them. games played for fantasy team X ATOI
+- DONE corsi
+- DONE goals for per 60
+- DONE goals against per 60
+- DONE pp stats
+- DONE short handed stats
+- luckiness?
+- contract value?
+- cap number?
+	- individual
+	- team?
+		- would require a separate cap table for each player for each particular year. TEDIOUS
+- DONE goalie count
+- d count
+	- Standardized d Count?
+	- DONE total defensemen games is probably better
+	- DONE total D man count
+	- total defensemen count divided by total number of moves?
+	- PYTHON
+	-
+- DONE multi positions
+- DONE games played
+- ?
